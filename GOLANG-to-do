@@ -1,0 +1,43 @@
+GOLANG
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+TO DO NEXT:
+
+1 - Maps:   ==>   (DONE)
+
+
+
+2 - Switch Statements:   ==>   (DONE)
+
+
+
+3 - Error handling:   ==>   (DONE)
+
+
+
+4 - Deck wala project creation again   (TO DO)
+
+
+
+
+5 - Web requests, api calls     (IN PROGRESS)
+
+
+
+6 - Connecting to database (creation of sdms type proj)   (IN PROGRESS)
+
+
+
+https://www.naukri.com/python-jobs?k=python&nignbevent_src=jobsearchDeskGNB&experience=3&cityTypeGid=134&cityTypeGid=135&cityTypeGid=138&cityTypeGid=323&cityTypeGid=9509&ctcFilter=10to15
+
+SDMS 
+
+api calls:
+
+POST CALL:
+
+curl -X POST -H "Content-Type: application/json" -d '{"roll_no": "123", "name": "John Doe"}' http://localhost:8080/api/posthello
+
+
+curl -X GET -H "Content-Type: application/json" -d '{"roll_no": "123"}' http://localhost:8080/api/readhello
